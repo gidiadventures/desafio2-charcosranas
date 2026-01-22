@@ -25,7 +25,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Charco de Lomo',
-            image: './assets/charco 1.jfif',
+            image: './charco 1.jfif',
             description: 'El charco mas grande de tenerife con 5 diferentes especies de ranas y con un tamaño de 5 metros.',
             location: {
                 center: [-16.364459075417848, 28.51002738477748],
@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Charco de las Canteras.',
-            image: './assets/charco 2.jpg',
+            image: './charco 2.jpg',
             description: 'El Charco de las Canteras ha sufrido un disminución importante por la sequia de 2020',
             location: {
                 center: [-16.23025006427331, 28.50903301470274],
@@ -80,7 +80,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Charco Verde',
-            image: './assets/charco 3.jfif',
+            image: './charco 3.jfif',
             description: 'Charco Verde quedó con solo 3 ranas en 2025',
             location: {
                 center: [-16.270141497072427, 28.510143474834067],
@@ -99,7 +99,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Charco Santo',
-            image: './assets/charco 4.jfif',
+            image: './charco 4.jfif',
             description: 'Las Ranas han volviendo tras 18 años sin estar, gracias a los vecinos que han iliminando los gatos salvajes en el barrio',
             location: {
                 center: [-16.308115304674324, 28.563533399015988],
