@@ -16,7 +16,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Charcos de Ranas',
-    subtitle: 'El camibo de los Charcos de agua dulce en Tenerife con ranas.',
+    subtitle: 'El cambio de los Charcos de agua dulce en Tenerife con ranas.',
     byline: 'Gideon Shinaar',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -100,7 +100,7 @@ var config = {
             hidden: false,
             title: 'Charco Santo',
             image: './charco 4.jfif',
-            description: 'Las Ranas han volviendo tras 18 años sin estar, gracias a los vecinos que han iliminando los gatos salvajes en el barrio',
+            description: 'Después de 18 años sin ranas, han vuelto gracias a los vecinos que eliminaron los gatos salvajes del barrio'
             location: {
                 center: [-16.308115304674324, 28.563533399015988],
                 zoom: 10.41,
